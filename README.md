@@ -26,3 +26,47 @@ To successfully establish the project and gain a comprehensive understanding of 
    - **Growth Efficiency**: Measure the efficiency of growth strategies to determine the effectiveness of resource allocation.
 
 By following these steps, you will create a robust framework for analyzing and visualizing crucial sales data, ultimately driving informed business decisions.
+
+# Usage
+
+### Data Cleaning:
+
+Run the Python script for cleaning and preprocessing the data.
+
+### Database Integration:
+
+Upload the cleaned data to SQL using SQLAlchemy.
+
+### Dashboard Creation:
+
+Connect Power BI to the SQL database and create interactive visualizations.
+
+# Features
+
+### Comprehensive Data Cleaning with Python
+Utilize the powerful capabilities of Python to streamline your data-cleaning processes. This involves removing inaccuracies, handling missing values, and ensuring your datasets are ready for analysis.
+
+### Seamless SQL Database Integration for Efficient Data Management
+Leverage SQL for robust data management by integrating it into your workflow. This allows for efficient querying, storage, and manipulation of large datasets, making it easier to access and analyze your data.
+
+### Engaging and Interactive Dashboards with Power BI
+Create dynamic and visually appealing dashboards using Power BI. This tool enables you to present your data insights in a way that is easy to understand and interact with, enhancing decision-making processes.
+
+# Technology
+
+**Programming Language**: Python  
+Harness the flexibility and extensive library ecosystem of Python for data analysis and automation tasks.
+
+**Database Management**: SQL (using SQLAlchemy)  
+Employ SQLAlchemy for a powerful and flexible way to manage relational databases, allowing for seamless communication between your applications and SQL databases.
+
+**Visualization Tool**: Power BI  
+Utilize Power BI to transform your data into informative visuals and reports, facilitating better insights and storytelling with your data.
+
+**Libraries Used**: Pandas, SQLAlchemy, Numpy  
+Leverage essential libraries like Pandas for data manipulation, SQLAlchemy for database interactions, and Numpy for numerical computing to enhance your data processing capabilities.
+
+**Version Control**: Git  
+Implement Git for version control and collaboration, ensuring that your project maintains a history of changes and supports teamwork effectively.
+
+
