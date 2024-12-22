@@ -69,11 +69,21 @@ Leverage essential libraries like Pandas for data manipulation, SQLAlchemy for d
 **Version Control**: Git  
 Implement Git for version control and collaboration, ensuring that your project maintains a history of changes and supports teamwork effectively.
 
-# Visualization
+# Data Visualization
+### ER Diagram
+![image](https://github.com/user-attachments/assets/2ac4365f-cc34-41f9-a269-d3eb3a75a3c6)
 
+### Sales Dashboard
 ![image](https://github.com/user-attachments/assets/68ecfc1b-065d-4a32-a073-efd7f926554b)
+
+### Employees Dashboard
+![image](https://github.com/user-attachments/assets/bc15261e-edc8-4f68-bbf6-762bb4070339)
 
 
 # Project Repository
 
 The source code and additional details can be found on GitHub: https://github.com/Charansunkoju/Adventure_Works_.git
+
+# Conclusion
+
+The analysis underscores the critical importance of achieving a balance in the distribution of the sales to ensure that resources are allocated effectively across various regions. By optimizing regional strategies, organizations can significantly enhance their overall performance and responsiveness to market demands. Furthermore, the integration of sales metrics and relevant data is essential, as it can provide a more comprehensive understanding of sales trends and customer behaviour. This deeper insight can ultimately lead to improved strategic planning, enabling businesses to make informed decisions that drive growth and success.
