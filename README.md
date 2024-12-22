@@ -69,6 +69,11 @@ Leverage essential libraries like Pandas for data manipulation, SQLAlchemy for d
 **Version Control**: Git  
 Implement Git for version control and collaboration, ensuring that your project maintains a history of changes and supports teamwork effectively.
 
+# Visualization
+
+![image](https://github.com/user-attachments/assets/68ecfc1b-065d-4a32-a073-efd7f926554b)
+
+
 # Project Repository
 
 The source code and additional details can be found on GitHub: https://github.com/Charansunkoju/Adventure_Works_.git
