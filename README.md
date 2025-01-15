@@ -82,7 +82,7 @@ Implement Git for version control and collaboration, ensuring that your project 
 
 # Project Repository
 
-The source code and additional details can be found on GitHub: https://github.com/Charansunkoju/Adventure_Works_.git
+The source code and additional details can be found on GitHub:https://github.com/Charansunkoju/Adventure_Works_.git
 
 # Conclusion
 
