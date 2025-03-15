@@ -1,4 +1,4 @@
-# 🚀 Adventure Works Data Analytics and Visualization Pipeline
+#  Adventure Works Data Analytics and Visualization Pipeline
 
 The **Adventure Works Report** delivers a comprehensive analysis of key sales metrics and employee performance indicators using **dynamic Power BI dashboards**. This report provides valuable insights into **sales trends, regional distribution, product performance, and employee contributions**, helping stakeholders make **data-driven strategic decisions** that enhance business performance.
 
