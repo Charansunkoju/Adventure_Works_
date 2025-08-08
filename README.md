@@ -1,4 +1,11 @@
 #  Adventure Works Data Analytics and Visualization Pipeline
+[![Python](https://img.shields.io/badge/Python-3.10-blue?logo=python&logoColor=white)](https://github.com/topics/python)
+[![SQL](https://img.shields.io/badge/SQL-Database%20Management-003B57?logo=postgresql&logoColor=white)](https://github.com/topics/sql)
+[![Power BI](https://img.shields.io/badge/Power%20BI-Data%20Visualization-F2C811?logo=powerbi&logoColor=black)](https://github.com/topics/power-bi)
+[![Pandas](https://img.shields.io/badge/Pandas-Data%20Analysis-150458?logo=pandas)](https://github.com/topics/pandas)
+[![Data Analytics](https://img.shields.io/badge/Data%20Analytics-Business%20Intelligence-green)](https://github.com/topics/data-analytics)
+[![ETL Pipeline](https://img.shields.io/badge/ETL-Pipeline-orange)](https://github.com/topics/etl)
+
 
 The **Adventure Works Report** delivers a comprehensive analysis of key sales metrics and employee performance indicators using **dynamic Power BI dashboards**. This report provides valuable insights into **sales trends, regional distribution, product performance, and employee contributions**, helping stakeholders make **data-driven strategic decisions** that enhance business performance.
 
